@@ -21,7 +21,7 @@ P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\MyFirstPDMT
 P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\MyFirstPDMTool\myFirstPDMTool\myFirstPDMTool\myFirstPDMTool\obj\Debug\WindowsApp1.Resources.resources
 P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\MyFirstPDMTool\myFirstPDMTool\myFirstPDMTool\myFirstPDMTool\obj\Debug\myFirstPDMTool.vbproj.GenerateResource.cache
 P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\MyFirstPDMTool\myFirstPDMTool\myFirstPDMTool\myFirstPDMTool\obj\Debug\myFirstPDMTool.vbproj.CoreCompileInputs.cache
-P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\MyFirstPDMTool\myFirstPDMTool\myFirstPDMTool\myFirstPDMTool\obj\Debug\myFirstPDMTool.vbproj.CopyComplete
 P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\MyFirstPDMTool\myFirstPDMTool\myFirstPDMTool\myFirstPDMTool\obj\Debug\WindowsApp1.exe
 P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\MyFirstPDMTool\myFirstPDMTool\myFirstPDMTool\myFirstPDMTool\obj\Debug\WindowsApp1.xml
 P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\MyFirstPDMTool\myFirstPDMTool\myFirstPDMTool\myFirstPDMTool\obj\Debug\WindowsApp1.pdb
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\MyFirstPDMTool\myFirstPDMTool\myFirstPDMTool\myFirstPDMTool\obj\Debug\myFirstP.4DB5F6E6.Up2Date

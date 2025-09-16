@@ -1,0 +1,15 @@
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\bin\Debug\CardEditor.exe.config
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\bin\Debug\CardEditor.exe
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\bin\Debug\CardEditor.pdb
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\bin\Debug\CardEditor.xml
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\bin\Debug\EPDM.Interop.epdm.dll
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\bin\Debug\EPDM.Interop.EPDMResultCode.dll
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\obj\Debug\CardEditor.vbproj.AssemblyReference.cache
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\obj\Debug\CardEditor.Form1.resources
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\obj\Debug\CardEditor.Resources.resources
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\obj\Debug\CardEditor.vbproj.GenerateResource.cache
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\obj\Debug\CardEditor.vbproj.CoreCompileInputs.cache
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\obj\Debug\CardEditor.vbproj.CopyComplete
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\obj\Debug\CardEditor.exe
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\obj\Debug\CardEditor.xml
+P:\Blue Byte Systems, Inc\Training\SOLIDWORKS PDM API Bootcamp\Day 2\CardEditor\CardEditor\CardEditor\obj\Debug\CardEditor.pdb
