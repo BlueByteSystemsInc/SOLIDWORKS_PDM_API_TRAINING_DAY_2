@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Blue Byte Systems, Inc\\Training\\SOLIDWORKS PDM API Bootcamp\\Day 2\\MyFirstPDMTool\\myFirstPDMTool_Start\\WindowsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDF0BFD-5377-46EA-B453-680861EA1C3D}|WindowsApp1\\myFirstPDMTool.vbproj|p:\\blue byte systems, inc\\training\\solidworks pdm api bootcamp\\day 2\\myfirstpdmtool\\myfirstpdmtool_start\\windowsapp1\\windowsapp1\\form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2FDF0BFD-5377-46EA-B453-680861EA1C3D}|WindowsApp1\\myFirstPDMTool.vbproj|solutionrelative:windowsapp1\\form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDF0BFD-5377-46EA-B453-680861EA1C3D}|WindowsApp1\\myFirstPDMTool.vbproj|p:\\blue byte systems, inc\\training\\solidworks pdm api bootcamp\\day 2\\myfirstpdmtool\\myfirstpdmtool_start\\windowsapp1\\windowsapp1\\form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2FDF0BFD-5377-46EA-B453-680861EA1C3D}|WindowsApp1\\myFirstPDMTool.vbproj|solutionrelative:windowsapp1\\form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2c59525e-9c14-4bfd-bc18-3a5ae7eb7dbd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.vb [Design]",
+              "DocumentMoniker": "P:\\Blue Byte Systems, Inc\\Training\\SOLIDWORKS PDM API Bootcamp\\Day 2\\MyFirstPDMTool\\myFirstPDMTool_Start\\WindowsApp1\\WindowsApp1\\Form.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Form.vb",
+              "ToolTip": "P:\\Blue Byte Systems, Inc\\Training\\SOLIDWORKS PDM API Bootcamp\\Day 2\\MyFirstPDMTool\\myFirstPDMTool_Start\\WindowsApp1\\WindowsApp1\\Form.vb [Design]",
+              "RelativeToolTip": "WindowsApp1\\Form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T00:38:23.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.vb",
+              "DocumentMoniker": "P:\\Blue Byte Systems, Inc\\Training\\SOLIDWORKS PDM API Bootcamp\\Day 2\\MyFirstPDMTool\\myFirstPDMTool_Start\\WindowsApp1\\WindowsApp1\\Form.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Form.vb",
+              "ToolTip": "P:\\Blue Byte Systems, Inc\\Training\\SOLIDWORKS PDM API Bootcamp\\Day 2\\MyFirstPDMTool\\myFirstPDMTool_Start\\WindowsApp1\\WindowsApp1\\Form.vb",
+              "RelativeToolTip": "WindowsApp1\\Form.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T00:38:19.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
